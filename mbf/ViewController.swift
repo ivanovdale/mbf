@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  mbf
-//
-//  Created by Daniil (work) on 22.12.2023.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
